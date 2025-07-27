@@ -40,7 +40,7 @@ A clean and mobile-friendly landing page design.
 
 - 📧 Email: [akhenatenjama88@gmail.com](mailto:akhenatenjama88@gmail.com)
 - 🔗 LinkedIn: [Your LinkedIn URL here]
-- 🌐 Portfolio: [Your Google Sites URL here or coming soon]
+- 🌐 Portfolio: [[ ](https://sites.google.com/view/myfavouritewebsite/home)]
 
 ---
 
